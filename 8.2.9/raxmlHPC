@@ -5,8 +5,8 @@ if [ ! $(command -v singularity) ]; then
 fi
 
 VERSION=36
-PACKAGE=BLAT
-TOOL=blat
+PACKAGE=RAxML
+TOOL=raxmlHPC
 DIRECTORY=/opt/packages/$PACKAGE/$VERSION
 
 PERSISTENT_FILE_STORAGE=/ocean
