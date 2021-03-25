@@ -4,7 +4,7 @@ if [ ! $(command -v singularity) ]; then
 	module load singularity
 fi
 
-VERSION=36
+VERSION=8.2.9
 PACKAGE=RAxML
 TOOL=raxmlHPC
 DIRECTORY=/opt/packages/$PACKAGE/$VERSION
