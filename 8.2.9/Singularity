@@ -6,8 +6,3 @@ From: quay.io/biocontainers/raxml:8.2.9--h516909a_3
     EMAIL icaoberg@psc.edu
     WEBSITE https://gitlab.psc.edu/icaoberg/singularity-raxml
     VERSION 8.2.9
-
-%post
-   rm /etc/resolv.conf
-
-####################################################################################
