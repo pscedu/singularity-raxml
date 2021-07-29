@@ -4,7 +4,7 @@
 # All Rights Reserved.
 
 PACKAGE=raxml
-VERSION8.2.9
+VERSION=8.2.9
 IMAGE=singularity-$PACKAGE-$VERSION.sif
 DEFINITION=Singularity
 
