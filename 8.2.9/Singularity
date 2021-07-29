@@ -2,7 +2,7 @@ Bootstrap: docker
 From: quay.io/biocontainers/raxml:8.2.9--h516909a_3
 
 %labels
-    AUTHOR icaoberg
+    MAINTAINER  icaoberg
     EMAIL icaoberg@psc.edu
     WEBSITE http://github.com/pscedu/singularity-raxml
     COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved. 
