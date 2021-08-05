@@ -1,8 +1,8 @@
-![Status](https://github.com/icaoberg/singularity-raxml/actions/workflows/main.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/icaoberg/singularity-raxml)
-![forks](https://img.shields.io/github/forks/icaoberg/singularity-raxml)
-![Stars](https://img.shields.io/github/stars/icaoberg/singularity-raxml)
-![License](https://img.shields.io/github/license/icaoberg/singularity-raxml)
+![Status](https://github.com/pscedu/singularity-raxml/actions/workflows/main.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/pscedu/singularity-raxml)
+![forks](https://img.shields.io/github/forks/pscedu/singularity-raxml)
+![Stars](https://img.shields.io/github/stars/pscedu/singularity-raxml)
+![License](https://img.shields.io/github/license/pscedu/singularity-raxml)
 
 # singularity-raxml
 
